@@ -28,7 +28,7 @@ The number of single executions for each gesture category-mode pair is reported 
 The dataset, complete of the raw Motion Capture data, can also be retrived in a more _cpython-oriented_ format (`.pickle`) in the [GitLab page](https://gitlab.dei.unipd.it/dl_dei/gesture_recognition) of the Department of Information Engineering of the University of Padova.
 
 ## Project Report
-The detailed results of this project have been presented at the 5th IFAC Conference on Intelligent Control and Automation Sciences at ICONS 2019 in Belfast, United Kingdom, and the complete report has been published by [Elsevier :memo:](https://www.sciencedirect.com/science/article/pii/S2405896319307591)
+The detailed results of this project have been presented at the 5th IFAC Conference on Intelligent Control and Automation Sciences at ICONS 2019 in Belfast, United Kingdom, and the complete report has been [published](https://www.sciencedirect.com/science/article/pii/S2405896319307591) by Elsevier. :memo:
 
 ### Aknowledgments
 I wish to thank my project supervisors and co-authors A. Cenedese, G.A. Susto, M. Carletti, and M. Terzi for their support and their advices.
