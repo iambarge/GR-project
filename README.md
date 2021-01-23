@@ -20,6 +20,14 @@ In this project we propose a Random Forest-based approach for Gesture Recognitio
 <img align="left" height="250" src="src/markers.png">
 The dataset is composed of three-dimensional position data, gathered from 12 infrared video cameras at 340Hz, of 8 photo-reflexive markers placed in areas of the body that should allow a good characterization of the gesture, with the future goal of making it possible data collection in everyday applications, using consumer wearable devices. In data acquisition sessions, gestures were performed statically (i.e. standing still in the same point of the space) and through the use of the right arm only (on the frontal plane). The categories of gestures for which data were collected are 10: circle shape (O), eight shape (8), square shape (:black_square_button:), triangle shape (△), M shape (M), S shape (S), U shape (U), V shape (V), vertical movement (||) and horizontal movement (=). With the purpose of providing greater intra-class variability, for each gesture category we considered 11 different modes of execution: clockwise (CK), counterclockwise (CCK), small amplitude (SA), medium amplitude (MA), big amplitude (BA), low velocity (LV), medium velocity (MV), high velocity (HV), vertical deformation (VD), horizontal deformation (HD) and diagonal deformation (DD).
 
-<p align=="center">
+The number of single executions for each gesture category-mode pair is reported in the table below.
+<p align="center">
+ <br>
  <img src="src/gestures.png" width="600">
 </p>
+
+## Project Report
+The detailed results of this project have been presented at the 5th IFAC Conference on Intelligent Control and Automation Sciences at ICONS 2019 in Belfast, United Kingdom, and the complete report has been published by [Elsevier :memo:](https://www.sciencedirect.com/science/article/pii/S2405896319307591)
+
+### Aknowledgments
+I wish to thank my project supervisors and co-authors A. Cenedese, G.A. Susto, M. Carletti, and M. Terzi for their support and their advices.
