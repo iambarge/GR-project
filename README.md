@@ -22,7 +22,6 @@ The dataset is composed of three-dimensional position data, gathered from 12 inf
 
 The number of single executions for each gesture category-mode pair is reported in the table below.
 <p align="center">
- <br>
  <img src="src/gestures.png" width="600">
 </p>
 
