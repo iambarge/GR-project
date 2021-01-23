@@ -1,4 +1,4 @@
-# A RF-based Approach to Gesture Recognition
+# A Random Forest-based Approach for Hand Gesture Recognition
 Gesture Recognition has a prominent importance in smart environment and home automation. Thanks to the availability of Machine Learning approaches it is possible for users to define gestures that can be associated with commands for the smart environment. 
 
 ### Project Objectives
