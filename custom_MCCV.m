@@ -1,3 +1,9 @@
+% Copyright (c) 2019, Nicolò Bargellesi
+%
+% This source code is licensed under the MIT-style license found in the
+% LICENSE file in the root directory of this source tree.
+%
+
 function [Confusion, Correctness, order, Mdl_best] = custom_MCCV(data_points,group_labels,classes,Rate,N)
 %CUSTOM_MCCV	Compute Monte Carlo CV for dataset elements and returns scores and the best model.
 %   [CONFUSION,ORDER]=CUSTOM_MCCV(DATASET,TYPE,CLASSES,RATE,N) given a
