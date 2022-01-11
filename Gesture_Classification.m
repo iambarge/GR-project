@@ -1,9 +1,15 @@
+% Copyright (c) 2019, Nicolò Bargellesi
+%
+% This source code is licensed under the MIT-style license found in the
+% LICENSE file in the root directory of this source tree.
+%
+
 %% config 
 clc
 clear
 
 %% Select the best model according to CV
-Type = 2.2;       % Pre-Processing type, selected by a number:
+Type = 2.2;     % Pre-Processing type, selected by a number:
                 %  1   - Crop
                 %  2.1 - Resampling V.1 (slow)
                 %  2.2 - Resampling V.2
